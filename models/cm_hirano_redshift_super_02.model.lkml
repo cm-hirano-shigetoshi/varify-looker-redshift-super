@@ -11,3 +11,5 @@ include: "/views/**/*.view"
 #persist_with: cm_hirano_redshift_super_02_default_datagroup
 
 explore: super02 {}
+explore: super02_view {}
+explore: super02_view2 {}
